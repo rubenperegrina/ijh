@@ -1,0 +1,2333 @@
+{
+  "currentPage": 1,
+  "pageSize": 20,
+  "totalResults": 4947,
+  "currentResults": 20,
+  "totalPages": 114,
+  "availableSortingMethods": ["updated-desc"],
+  "sortBy": "updated-desc",
+  "items": [
+    {
+      "id": "1f28aad2bb46f3a1b7c59a09c8d89e",
+      "title": "IT Systems Architect",
+      "province": {
+        "id": 2,
+        "value": "Álava/Araba"
+      },
+      "city": "Laudio/Llodio",
+      "link": "https://www.infojobs.net/laudio-llodio/it-systems-architect/of-i1f28aad2bb46f3a1b7c59a09c8d89e",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 3,
+        "value": "3 €"
+      },
+      "salaryMax": {
+        "id": 3,
+        "value": "3 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 140,
+        "value": "Licenciatura"
+      },
+      "published": "2023-05-12T09:35:27.000Z",
+      "updated": "2023-05-18T09:33:07.000Z",
+      "author": {
+        "id": "143f63d871477eb85f278582ddcbe5",
+        "name": "Guardian Glass",
+        "uri": "https://www.infojobs.net/guardian-glass/em-i143f63d871477eb85f278582ddcbe5"
+      },
+      "requirementMin": "The Experience You Will Bring \n\n -Proven experience in architecting, engineering, supporting, or developing business IT solutions in hosted and cloud environment\n -Bachelor's degree in Technology, Computer Science, Software Engineering or related field\n -Strong knowledge of architectural and integration design patterns\n -Experience in application integrations and Enterprise Service Bus architecture using MuleSoft and/ or other middleware\n -Experience in EAI and SOA best practices and development methodologies\n -Experience in JMS, SOAP and REST Web Services standards\n -Experience in application and API security, logging, auditing, policy management, performance monitoring and KPIs for end-to-end process execution\n -Ability to travel up to 10%\n\n What Will Put You Ahead \n\n -Knowledge of AWS and Apache Kafka\n -Experience in working in a CI/CD environment and familiar with DevOps principles\n -Experience in working in an Agile environment",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "29ef20372240a88b0294d6d21ade30",
+      "title": "Global Systems Administrator (Remote)",
+      "province": {
+        "id": 4,
+        "value": "Alicante/Alacant"
+      },
+      "city": "Tudela, Navarra / Nafarroa",
+      "link": "https://www.infojobs.net/tudela-navarra-nafarroa/global-systems-administrator-remote/of-i29ef20372240a88b0294d6d21ade30",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 140,
+        "value": "Licenciatura"
+      },
+      "published": "2023-05-12T14:43:15.000Z",
+      "updated": "2023-05-18T09:32:57.000Z",
+      "author": {
+        "id": "143f63d871477eb85f278582ddcbe5",
+        "name": "Guardian Glass",
+        "uri": "https://www.infojobs.net/guardian-glass/em-i143f63d871477eb85f278582ddcbe5"
+      },
+      "requirementMin": "The Experience You Will Bring \n Requirements: \n · Previous experience working with enterprise application architectures and cloud solutions. \n · Strong organizational, communication, self-motivated and relationship building skills conducive to driving consensus; ability to work well in a cross-functional environment. \n · Ability to work well as a member of a highly integrated team composed of both technical and non-technical members. \n · Ability to successfully partner with all functions across the entire company. \n · Must be able to prioritize and use good judgment in decision making and time management. \n · Proficient knowledge of technology appropriate to the position and a willingness to learn new skills. \n · Experience with Amazon AWS Platform services (preferred). \n · Prior experience managing API products strategy, roadmap, and feature/documentation development. \n · Familiar CI/CD platforms sun as Azure DevOps or Octopus. \n · Experience with SM SQL server, tools and scripting (preferred). \n · Well familiar with DevOps or Agile frameworks for delivering IT services. \n · Bachelor's degree or equivalent work experience. \n What do we have to offer? \n Guardian companies are committed to offer a competitive compensation package and an opportunity for you to maximize your potential. We pride ourselves in promoting career opportunities in an open environment, which encourages individual development and gives you opportunities to expand your knowledge and work as part of a global team. We offer a unique professional experience in a culture based on integrity, compliance and value creation. \n https://www.guardian.com/en/about_us/market_based_management.html",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "f746fea6864afab3b2f02cdce0b358",
+      "title": "Electromecánico/a",
+      "province": {
+        "id": 4,
+        "value": "Alicante/Alacant"
+      },
+      "city": "Alicante/Alacant",
+      "link": "https://www.infojobs.net/alicante-alacant/electromecanico/of-if746fea6864afab3b2f02cdce0b358",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 140,
+        "value": "Licenciatura"
+      },
+      "published": "2023-05-12T14:32:00.000Z",
+      "updated": "2023-05-18T09:31:25.000Z",
+      "author": {
+        "id": "fe858b6dda452e9129e1b879f02a05",
+        "name": "SRG Global",
+        "uri": "https://www.infojobs.net/srg-global/em-ife858b6dda452e9129e1b879f02a05"
+      },
+      "requirementMin": "Requisitos \n\n -Formación Profesional; Grado Medio o Superior. Especialidad electromecánica o electrónica.\n\n Se valorará: \n\n -Conocimiento de conexiones ethernet, PLC, instalaciones eléctricas y electrónicas, variadores de frecuencia, autómatas programables, entre otros.\n -Conocimiento de máquinas de inyección de plásticos para automoción\n -Conocimiento de programación PLC y pantallas HMI en estándar PCD, Diseños de esquemas eléctricos (ePlan), modificaciones mecánicas y de cableado eléctrico.\n -Conocimiento de programación ABB para todo tipo de procesos.\n -Experiencia resolviendo incidencias habituales en útiles de montaje.\n -Experiencia en industria, especialmente en el sector automoción.\n\n Habilidades requeridas : \n\n -Capacidad de colaboración y trabajo en equipo.\n -Facilidad de comunicación con el fin de facilitar el trabajo de los operarios de línea.\n -Actitud proactiva y resolutiva ante las incidencias que surjan en el día a día.\n -Flexibilidad y adaptabilidad ante las incidencias que surjan en el trabajo.\n -Es muy valorable tener un conocimiento de inglés intermedio\n\n Otros: \n\n -Disponibilidad de trabajo a turnos.\n -Se valorará residencia en Ibi o comarca.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "875f36bb5d4962b533f595d7916768",
+      "title": "Administrador/a Sistemas IT para aseguradora (2 días semana teletrabajo)",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/administrador-sistemas-it-para-aseguradora-2-dias-semana-teletrabajo/of-i875f36bb5d4962b533f595d7916768",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 270,
+        "value": "24.000 €"
+      },
+      "salaryMax": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-18T09:30:39.000Z",
+      "updated": "2023-05-18T09:30:39.000Z",
+      "author": {
+        "id": "48565757555910865788472011093930213263",
+        "name": "AFB Consultoría de Talento",
+        "uri": "https://www.infojobs.net/afb-consultoria-de-talento/em-i48565757555910865788472011093930213263"
+      },
+      "requirementMin": "-Experiencia de entre 1 y 3 años como Administrador de Sistemas.\r\n-Imprescindible titulación universitaria.\r\n-Nivel de Inglés B2 (Medio Alto) real al menos a nivel técnico de lectura y escrito. Valoran Francés, pero No es imprescindible\r\n-Experiencia imprescindible en Administración y gestión de sistemas Windows Server 2008-2022, Active Directory, DHCP, DNS, GPOs, Buen conocimiento de cyber seguridad\r\n-Conocimiento de networking (servicios de redes y redes LAN), de herramientas de virtualización VmWare, Hyper-V, de redes y wifi Ubiquiti, de herramientas de control remoto (RDP, Teamviewer,Anydesk)\r\n-Experiencia en Administración de plataformas O365 (AD, Exchange, Sharepoint, Teams)\r\n-Gestión de backups con Veeam Backup\r\n-Manejo de hostings externos\r\n-Conocimientos solidos de hardware de estaciones de trabajo.\r\n-Conocimientos de sistemas operativos Linux\r\n-Conocimiento de Power-BI (deseable)",
+      "bold": true,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "febe257f604850b9d97c24a6c75299",
+      "title": "INFORMATICO PARA PROGRAMACIÓN (PHP/C#/Python/JavaScript)",
+      "province": {
+        "id": 50,
+        "value": "Valladolid"
+      },
+      "city": "Valladolid",
+      "link": "https://www.infojobs.net/valladolid/informatico-para-programacion-php-c-python-javascript/of-ifebe257f604850b9d97c24a6c75299",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 130,
+        "value": "Ingeniería Superior"
+      },
+      "published": "2023-05-04T08:41:36.000Z",
+      "updated": "2023-05-18T09:30:03.000Z",
+      "author": {
+        "id": "97525554484352831119911014023780707011",
+        "name": "Sociedad Publica de Infraestructuras y Medio Ambie",
+        "uri": "https://www.infojobs.net/sociedad-publica-de-infraestructuras-y-medio-ambie/em-i97525554484352831119911014023780707011"
+      },
+      "requirementMin": "-Experiencia mínima: 2 años\r\n- Residencia en Valladolid\r\n- Experiencia desarrollando en Programación.\r\n- Lenguajes de programación más utilizados (Python, Java y JavaScript, C# y C/C++, PHP...).\r\n- Conocimientos de Seguridad Informática.\r\n- Utilización de tecnología JavaServer Page (JSP), así como aplicaciones java de conexión a base de datos mediante JPA",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "340dc4a0884ec38e56b8180feab7ac",
+      "title": "Facilities coordinator",
+      "province": {
+        "id": 46,
+        "value": "Santa Cruz de Tenerife"
+      },
+      "city": "Santa Cruz de Tenerife",
+      "link": "https://www.infojobs.net/santa-cruz-de-tenerife/facilities-coordinator/of-i340dc4a0884ec38e56b8180feab7ac",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 9,
+        "value": "Fijo discontinuo"
+      },
+      "subcategory": {
+        "id": 3112,
+        "value": "Helpdesk"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-04T08:33:20.000Z",
+      "updated": "2023-05-18T09:30:03.000Z",
+      "author": {
+        "id": "98545556485652677673775023036681604435",
+        "name": "CLIMATECO2 TECHNOLOGIES SL.",
+        "uri": "https://www.infojobs.net/climateco2-technologies-sl./em-i98545556485652677673775023036681604435"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 21,
+      "urgent": false
+    },
+    {
+      "id": "36244d0fd942458f5f54a617be4809",
+      "title": "INFORMATICO/A",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Vilanova i la Geltrú",
+      "link": "https://www.infojobs.net/vilanova-i-la-geltru/informatico/of-i36244d0fd942458f5f54a617be4809",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 275,
+        "value": "27.000 €"
+      },
+      "salaryMax": {
+        "id": 960,
+        "value": "40.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 9,
+        "value": "Intensiva - Indiferente"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-04T08:54:51.000Z",
+      "updated": "2023-05-18T09:30:03.000Z",
+      "author": {
+        "id": "52485656555183654668469006017541208205",
+        "name": "A.D.P. Informàtica",
+        "uri": "https://www.infojobs.net/a.d.p.-informatica/em-i52485656555183654668469006017541208205"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "d3c0ce4c864e998ef7f2e9e731970c",
+      "title": "ANALISTA  con experiencia en lenguaje JAVA sector público 100% REMOTO",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/analista-con-experiencia-lenguaje-java-sector-publico-100-remoto/of-id3c0ce4c864e998ef7f2e9e731970c",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3106,
+        "value": "Análisis"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-04-13T07:17:31.000Z",
+      "updated": "2023-05-18T09:30:02.000Z",
+      "author": {
+        "id": "967149524526202550483215354851",
+        "name": "Serikat",
+        "uri": "https://serikat.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "Contar con al menos 3 años de experiencia como analista funcional con sólida experiencia pasada en entorno tecnológico Java.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "5aa325c7334c6a9d80f76aafae3a4f",
+      "title": "Técnico de Sistemas/Administrador SQL SERVER  (Sector Público)",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/tecnico-sistemas-administrador-sql-server-sector-publico/of-i5aa325c7334c6a9d80f76aafae3a4f",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-04T08:56:14.000Z",
+      "updated": "2023-05-18T09:30:02.000Z",
+      "author": {
+        "id": "98565449485655831011101011124334308863",
+        "name": "Sensu de Servicios y Desarrollos, S.L.",
+        "uri": "https://sensusd.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "SQL SERVER\r\nPOSTGRESS\r\nMONGO DB",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "0a898bdb514b6aa05cbd478555345e",
+      "title": "Desarrollador/a .NET",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/desarrollador-.net/of-i0a898bdb514b6aa05cbd478555345e",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryMax": {
+        "id": 990,
+        "value": "45.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:29:53.000Z",
+      "updated": "2023-05-18T09:29:53.000Z",
+      "author": {
+        "id": "98565456534753831179991013136430116536",
+        "name": "Success Talent People, SL",
+        "uri": "https://sabiapersonal.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "-Más de 3 años de experiencia como Desarrollador en .NET.\r\n- Experto/a en ASP.NET.\r\n- Experto/a en C#.\r\n- Experto/a en VB.NET.\r\n- Bases de datos: SQL Server.\r\n- Dinámico/a, dotado de una aptitud fuerte organizativa, acostumbrado a trabajar en un entorno cambiante y con equipos multidisciplinares.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "450d26d5264c9ab53f22bddb919ba3",
+      "title": "Técnico/a Soporte Onsite / Helpdesk",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Mataró",
+      "link": "https://www.infojobs.net/mataro/tecnico-soporte-onsite-helpdesk/of-i450d26d5264c9ab53f22bddb919ba3",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3112,
+        "value": "Helpdesk"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-18T09:28:22.000Z",
+      "updated": "2023-05-18T09:28:22.000Z",
+      "author": {
+        "id": "964348524526202450273214950207",
+        "name": "PSS",
+        "uri": "https://pss.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "376cbabe2e4eda8db5a8ffa01de0a2",
+      "title": "Técnico de redes y seguridad perimetral (Fortinet & Palo Alto)",
+      "province": {
+        "id": 51,
+        "value": "Vizcaya/Bizkaia"
+      },
+      "city": "Basauri",
+      "link": "https://www.infojobs.net/basauri/tecnico-redes-seguridad-perimetral-fortinet-palo-alto/of-i376cbabe2e4eda8db5a8ffa01de0a2",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3111,
+        "value": "Hardware, redes y seguridad"
+      },
+      "salaryMin": {
+        "id": 1310,
+        "value": "22.000 €"
+      },
+      "salaryMax": {
+        "id": 280,
+        "value": "30.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 10,
+        "value": "Sin estudios"
+      },
+      "published": "2023-05-18T09:23:38.000Z",
+      "updated": "2023-05-18T09:23:38.000Z",
+      "author": {
+        "id": "966151524526202450403215254709",
+        "name": "Westcon-Comstor",
+        "uri": "https://www.infojobs.net/westcon-comstor/em-i966151524526202450403215254709"
+      },
+      "requirementMin": "Obligatoria experiencia administrando FORTINET o  Palo Alto.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "730c63f88b4952be1a110d4650d751",
+      "title": "Técnico de mantenimiento Máquinas Recreativas",
+      "province": {
+        "id": 26,
+        "value": "Islas Baleares/Illes Balears"
+      },
+      "city": "Palma de Mallorca",
+      "link": "https://www.infojobs.net/palma-de-mallorca/tecnico-mantenimiento-maquinas-recreativas/of-i730c63f88b4952be1a110d4650d751",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3111,
+        "value": "Hardware, redes y seguridad"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:22:41.000Z",
+      "updated": "2023-05-18T09:22:41.000Z",
+      "author": {
+        "id": "66545250485152681051140006273857611642",
+        "name": "ZITRO",
+        "uri": "https://zitrolaboratory.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "2ee4bbee6246d389472f16a55907d4",
+      "title": "Responsable de Control Financiero",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/responsable-control-financiero/of-i2ee4bbee6246d389472f16a55907d4",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3110,
+        "value": "Gestión de proyectos"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:22:35.000Z",
+      "updated": "2023-05-18T09:22:35.000Z",
+      "author": {
+        "id": "98413218454ffd858b024fd65344ba",
+        "name": "Randstad Technologies",
+        "uri": "https://randstad-technologies.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "-Contable titulado en ACA / ACCA / CIMA (o equivalente) \r\n- Experiencia trabajando con un gran equipo financiero \r\n- Experiencia en la preparación de estados financieros consolidados para un grupo global\r\n- Buen conocimiento práctico de las NIIF\r\n- Capacidad para dirigir a otros en la resolución de problemas complejos en el área de control financiero, basándose en las soluciones y procedimientos existentes.\r\n- Pensamiento analítico demostrado para tomar decisiones e identificar soluciones innovadoras\r\n- Sólidos conocimientos de OneStream\r\n- Excelentes dotes de comunicación con capacidad para desafiar y\r\ncolaborar\r\n- Excelentes conocimientos de Google Suite\r\n- Inglés fluido",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "b4ca6f24344371a1b10d9ecd49bb47",
+      "title": "Project Manager/Infraestructura IT",
+      "province": {
+        "id": 43,
+        "value": "Sevilla"
+      },
+      "city": "Sevilla",
+      "link": "https://www.infojobs.net/sevilla/project-manager-infraestructura-it/of-ib4ca6f24344371a1b10d9ecd49bb47",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3110,
+        "value": "Gestión de proyectos"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-04-10T10:14:06.000Z",
+      "updated": "2023-05-18T09:21:45.000Z",
+      "author": {
+        "id": "98565454555450739797110014164390516469",
+        "name": "Iaas 365 S.L",
+        "uri": "https://www.infojobs.net/iaas-365-s.l/em-i98565454555450739797110014164390516469"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 32,
+      "urgent": false
+    },
+    {
+      "id": "cdcc276dfd4da7ab7314f5a8dba1c4",
+      "title": "Arquitecto/a Java + Microservicios (Remoto)",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/arquitecto-java-microservicios-remoto/of-icdcc276dfd4da7ab7314f5a8dba1c4",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3107,
+        "value": "Arquitectura"
+      },
+      "salaryMin": {
+        "id": 1300,
+        "value": "20.000 €"
+      },
+      "salaryMax": {
+        "id": 450,
+        "value": "52.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:20:58.000Z",
+      "updated": "2023-05-18T09:20:58.000Z",
+      "author": {
+        "id": "98565455515256848773786013055227608808",
+        "name": "Grupo Hasten",
+        "uri": "https://grupohasten.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "- Experiencia de más de 3 años como Arquitecto/a Java + Microservicios\n- Experiencia en aseguramiento de la calidad, diseño de soluciones, creación de documentación, integración de componentes, diseño de pruebas etc.\n- Experiencia en TDD\n- Requisitos técnicos: Java 8, Microservicios, Suite Spring, Kafka, RabbitMQ, React (deseable)",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "08cf5694a44fd8bb0659eae4eb9aa5",
+      "title": "Técnico/a Laboratorio 5G",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/tecnico-laboratorio-5g/of-i08cf5694a44fd8bb0659eae4eb9aa5",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3114,
+        "value": "Telecomunicaciones"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-18T09:19:46.000Z",
+      "updated": "2023-05-18T09:19:46.000Z",
+      "author": {
+        "id": "947055524527006630613555553152",
+        "name": "Alcorce Telecomunicaciones",
+        "uri": "https://alcorcetelecomunicaciones.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "-Amplia experiencia en administración de redes y configuración de equipos de varios proveedores tanto a nivel HW como a nivel SW, incluso Radio.\r\n- Experiencia en pruebas de dispositivos móviles, routers, equipos, tarjetas y resto de soluciones.\r\n- Capacidad para buscar soluciones y poner todo en funcionamiento.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "b4e7db7a65465ea5a73870928799ff",
+      "title": "INGENIERO/A LINUX",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Rivas-Vaciamadrid",
+      "link": "https://www.infojobs.net/rivas-vaciamadrid/ingeniero-linux/of-ib4e7db7a65465ea5a73870928799ff",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 960,
+        "value": "40.000 €"
+      },
+      "salaryMax": {
+        "id": 990,
+        "value": "45.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 4,
+        "value": "Al menos 4 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-18T09:19:00.000Z",
+      "updated": "2023-05-18T09:19:00.000Z",
+      "author": {
+        "id": "4115fc389b4735bdae9fca3bd75cac",
+        "name": "HAYS Working for your Tomorrow",
+        "uri": "https://hays.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 32,
+      "urgent": false
+    },
+    {
+      "id": "5749dbe7874494b53560a149487507",
+      "title": "Consultor/a de ERP F&O",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/consultor-erp-f/of-i5749dbe7874494b53560a149487507",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3109,
+        "value": "ERP, CRM, Business Intelligence"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-18T09:17:37.000Z",
+      "updated": "2023-05-18T09:17:37.000Z",
+      "author": {
+        "id": "965253524526202350233215451224",
+        "name": "PRODWARE",
+        "uri": "https://prodware.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "b02deede244b8e82283f7750ab1e4b",
+      "title": "Experto/a en Data Analytics & Business Intelligence para Team Heretics",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/experto-data-analytics-business-intelligence-para-team-heretics/of-ib02deede244b8e82283f7750ab1e4b",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3106,
+        "value": "Análisis"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-15T10:11:48.000Z",
+      "updated": "2023-05-18T09:17:25.000Z",
+      "author": {
+        "id": "98565557535152846965770022197417917482",
+        "name": "TEAM HERETICS SL.",
+        "uri": "https://teamheretics.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "¿Qué esperamos de ti en el equipo?\r\n\r\n- Participar en la elaboración de reportes y dashboards analíticos sobre distintos elementos del área comercial\r\n\r\n- Manejo de herramientas de Business Intelligence: servicio a los equipos de captación y account management en la elaboración de reports e insights sobre el performance de los patrocinios y/o campañas de branded content ejecutadas\r\n\r\n- Búsqueda de oportunidades de mercado y estudio de la competencia\r\n\r\n- Se requiere conocimientos avanzados y/o experiencia previa en el sector de los e-sports y/o entretenimiento digital\r\n\r\n- Capacidad de detección de oportunidades comerciales por el tratamiento de datos, tanto internos como externos",
+      "bold": true,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    }
+  ],
+  "offers": [
+    {
+      "id": "1f28aad2bb46f3a1b7c59a09c8d89e",
+      "title": "IT Systems Architect",
+      "province": {
+        "id": 2,
+        "value": "Álava/Araba"
+      },
+      "city": "Laudio/Llodio",
+      "link": "https://www.infojobs.net/laudio-llodio/it-systems-architect/of-i1f28aad2bb46f3a1b7c59a09c8d89e",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 3,
+        "value": "3 €"
+      },
+      "salaryMax": {
+        "id": 3,
+        "value": "3 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 140,
+        "value": "Licenciatura"
+      },
+      "published": "2023-05-12T09:35:27.000Z",
+      "updated": "2023-05-18T09:33:07.000Z",
+      "author": {
+        "id": "143f63d871477eb85f278582ddcbe5",
+        "name": "Guardian Glass",
+        "uri": "https://www.infojobs.net/guardian-glass/em-i143f63d871477eb85f278582ddcbe5"
+      },
+      "requirementMin": "The Experience You Will Bring \n\n -Proven experience in architecting, engineering, supporting, or developing business IT solutions in hosted and cloud environment\n -Bachelor's degree in Technology, Computer Science, Software Engineering or related field\n -Strong knowledge of architectural and integration design patterns\n -Experience in application integrations and Enterprise Service Bus architecture using MuleSoft and/ or other middleware\n -Experience in EAI and SOA best practices and development methodologies\n -Experience in JMS, SOAP and REST Web Services standards\n -Experience in application and API security, logging, auditing, policy management, performance monitoring and KPIs for end-to-end process execution\n -Ability to travel up to 10%\n\n What Will Put You Ahead \n\n -Knowledge of AWS and Apache Kafka\n -Experience in working in a CI/CD environment and familiar with DevOps principles\n -Experience in working in an Agile environment",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "29ef20372240a88b0294d6d21ade30",
+      "title": "Global Systems Administrator (Remote)",
+      "province": {
+        "id": 4,
+        "value": "Alicante/Alacant"
+      },
+      "city": "Tudela, Navarra / Nafarroa",
+      "link": "https://www.infojobs.net/tudela-navarra-nafarroa/global-systems-administrator-remote/of-i29ef20372240a88b0294d6d21ade30",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 140,
+        "value": "Licenciatura"
+      },
+      "published": "2023-05-12T14:43:15.000Z",
+      "updated": "2023-05-18T09:32:57.000Z",
+      "author": {
+        "id": "143f63d871477eb85f278582ddcbe5",
+        "name": "Guardian Glass",
+        "uri": "https://www.infojobs.net/guardian-glass/em-i143f63d871477eb85f278582ddcbe5"
+      },
+      "requirementMin": "The Experience You Will Bring \n Requirements: \n · Previous experience working with enterprise application architectures and cloud solutions. \n · Strong organizational, communication, self-motivated and relationship building skills conducive to driving consensus; ability to work well in a cross-functional environment. \n · Ability to work well as a member of a highly integrated team composed of both technical and non-technical members. \n · Ability to successfully partner with all functions across the entire company. \n · Must be able to prioritize and use good judgment in decision making and time management. \n · Proficient knowledge of technology appropriate to the position and a willingness to learn new skills. \n · Experience with Amazon AWS Platform services (preferred). \n · Prior experience managing API products strategy, roadmap, and feature/documentation development. \n · Familiar CI/CD platforms sun as Azure DevOps or Octopus. \n · Experience with SM SQL server, tools and scripting (preferred). \n · Well familiar with DevOps or Agile frameworks for delivering IT services. \n · Bachelor's degree or equivalent work experience. \n What do we have to offer? \n Guardian companies are committed to offer a competitive compensation package and an opportunity for you to maximize your potential. We pride ourselves in promoting career opportunities in an open environment, which encourages individual development and gives you opportunities to expand your knowledge and work as part of a global team. We offer a unique professional experience in a culture based on integrity, compliance and value creation. \n https://www.guardian.com/en/about_us/market_based_management.html",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "f746fea6864afab3b2f02cdce0b358",
+      "title": "Electromecánico/a",
+      "province": {
+        "id": 4,
+        "value": "Alicante/Alacant"
+      },
+      "city": "Alicante/Alacant",
+      "link": "https://www.infojobs.net/alicante-alacant/electromecanico/of-if746fea6864afab3b2f02cdce0b358",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 140,
+        "value": "Licenciatura"
+      },
+      "published": "2023-05-12T14:32:00.000Z",
+      "updated": "2023-05-18T09:31:25.000Z",
+      "author": {
+        "id": "fe858b6dda452e9129e1b879f02a05",
+        "name": "SRG Global",
+        "uri": "https://www.infojobs.net/srg-global/em-ife858b6dda452e9129e1b879f02a05"
+      },
+      "requirementMin": "Requisitos \n\n -Formación Profesional; Grado Medio o Superior. Especialidad electromecánica o electrónica.\n\n Se valorará: \n\n -Conocimiento de conexiones ethernet, PLC, instalaciones eléctricas y electrónicas, variadores de frecuencia, autómatas programables, entre otros.\n -Conocimiento de máquinas de inyección de plásticos para automoción\n -Conocimiento de programación PLC y pantallas HMI en estándar PCD, Diseños de esquemas eléctricos (ePlan), modificaciones mecánicas y de cableado eléctrico.\n -Conocimiento de programación ABB para todo tipo de procesos.\n -Experiencia resolviendo incidencias habituales en útiles de montaje.\n -Experiencia en industria, especialmente en el sector automoción.\n\n Habilidades requeridas : \n\n -Capacidad de colaboración y trabajo en equipo.\n -Facilidad de comunicación con el fin de facilitar el trabajo de los operarios de línea.\n -Actitud proactiva y resolutiva ante las incidencias que surjan en el día a día.\n -Flexibilidad y adaptabilidad ante las incidencias que surjan en el trabajo.\n -Es muy valorable tener un conocimiento de inglés intermedio\n\n Otros: \n\n -Disponibilidad de trabajo a turnos.\n -Se valorará residencia en Ibi o comarca.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "875f36bb5d4962b533f595d7916768",
+      "title": "Administrador/a Sistemas IT para aseguradora (2 días semana teletrabajo)",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/administrador-sistemas-it-para-aseguradora-2-dias-semana-teletrabajo/of-i875f36bb5d4962b533f595d7916768",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 270,
+        "value": "24.000 €"
+      },
+      "salaryMax": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-18T09:30:39.000Z",
+      "updated": "2023-05-18T09:30:39.000Z",
+      "author": {
+        "id": "48565757555910865788472011093930213263",
+        "name": "AFB Consultoría de Talento",
+        "uri": "https://www.infojobs.net/afb-consultoria-de-talento/em-i48565757555910865788472011093930213263"
+      },
+      "requirementMin": "-Experiencia de entre 1 y 3 años como Administrador de Sistemas.\r\n-Imprescindible titulación universitaria.\r\n-Nivel de Inglés B2 (Medio Alto) real al menos a nivel técnico de lectura y escrito. Valoran Francés, pero No es imprescindible\r\n-Experiencia imprescindible en Administración y gestión de sistemas Windows Server 2008-2022, Active Directory, DHCP, DNS, GPOs, Buen conocimiento de cyber seguridad\r\n-Conocimiento de networking (servicios de redes y redes LAN), de herramientas de virtualización VmWare, Hyper-V, de redes y wifi Ubiquiti, de herramientas de control remoto (RDP, Teamviewer,Anydesk)\r\n-Experiencia en Administración de plataformas O365 (AD, Exchange, Sharepoint, Teams)\r\n-Gestión de backups con Veeam Backup\r\n-Manejo de hostings externos\r\n-Conocimientos solidos de hardware de estaciones de trabajo.\r\n-Conocimientos de sistemas operativos Linux\r\n-Conocimiento de Power-BI (deseable)",
+      "bold": true,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "febe257f604850b9d97c24a6c75299",
+      "title": "INFORMATICO PARA PROGRAMACIÓN (PHP/C#/Python/JavaScript)",
+      "province": {
+        "id": 50,
+        "value": "Valladolid"
+      },
+      "city": "Valladolid",
+      "link": "https://www.infojobs.net/valladolid/informatico-para-programacion-php-c-python-javascript/of-ifebe257f604850b9d97c24a6c75299",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 130,
+        "value": "Ingeniería Superior"
+      },
+      "published": "2023-05-04T08:41:36.000Z",
+      "updated": "2023-05-18T09:30:03.000Z",
+      "author": {
+        "id": "97525554484352831119911014023780707011",
+        "name": "Sociedad Publica de Infraestructuras y Medio Ambie",
+        "uri": "https://www.infojobs.net/sociedad-publica-de-infraestructuras-y-medio-ambie/em-i97525554484352831119911014023780707011"
+      },
+      "requirementMin": "-Experiencia mínima: 2 años\r\n- Residencia en Valladolid\r\n- Experiencia desarrollando en Programación.\r\n- Lenguajes de programación más utilizados (Python, Java y JavaScript, C# y C/C++, PHP...).\r\n- Conocimientos de Seguridad Informática.\r\n- Utilización de tecnología JavaServer Page (JSP), así como aplicaciones java de conexión a base de datos mediante JPA",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "340dc4a0884ec38e56b8180feab7ac",
+      "title": "Facilities coordinator",
+      "province": {
+        "id": 46,
+        "value": "Santa Cruz de Tenerife"
+      },
+      "city": "Santa Cruz de Tenerife",
+      "link": "https://www.infojobs.net/santa-cruz-de-tenerife/facilities-coordinator/of-i340dc4a0884ec38e56b8180feab7ac",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 9,
+        "value": "Fijo discontinuo"
+      },
+      "subcategory": {
+        "id": 3112,
+        "value": "Helpdesk"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-04T08:33:20.000Z",
+      "updated": "2023-05-18T09:30:03.000Z",
+      "author": {
+        "id": "98545556485652677673775023036681604435",
+        "name": "CLIMATECO2 TECHNOLOGIES SL.",
+        "uri": "https://www.infojobs.net/climateco2-technologies-sl./em-i98545556485652677673775023036681604435"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 21,
+      "urgent": false
+    },
+    {
+      "id": "36244d0fd942458f5f54a617be4809",
+      "title": "INFORMATICO/A",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Vilanova i la Geltrú",
+      "link": "https://www.infojobs.net/vilanova-i-la-geltru/informatico/of-i36244d0fd942458f5f54a617be4809",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 275,
+        "value": "27.000 €"
+      },
+      "salaryMax": {
+        "id": 960,
+        "value": "40.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 9,
+        "value": "Intensiva - Indiferente"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-04T08:54:51.000Z",
+      "updated": "2023-05-18T09:30:03.000Z",
+      "author": {
+        "id": "52485656555183654668469006017541208205",
+        "name": "A.D.P. Informàtica",
+        "uri": "https://www.infojobs.net/a.d.p.-informatica/em-i52485656555183654668469006017541208205"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "d3c0ce4c864e998ef7f2e9e731970c",
+      "title": "ANALISTA  con experiencia en lenguaje JAVA sector público 100% REMOTO",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/analista-con-experiencia-lenguaje-java-sector-publico-100-remoto/of-id3c0ce4c864e998ef7f2e9e731970c",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3106,
+        "value": "Análisis"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-04-13T07:17:31.000Z",
+      "updated": "2023-05-18T09:30:02.000Z",
+      "author": {
+        "id": "967149524526202550483215354851",
+        "name": "Serikat",
+        "uri": "https://serikat.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "Contar con al menos 3 años de experiencia como analista funcional con sólida experiencia pasada en entorno tecnológico Java.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "5aa325c7334c6a9d80f76aafae3a4f",
+      "title": "Técnico de Sistemas/Administrador SQL SERVER  (Sector Público)",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/tecnico-sistemas-administrador-sql-server-sector-publico/of-i5aa325c7334c6a9d80f76aafae3a4f",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-04T08:56:14.000Z",
+      "updated": "2023-05-18T09:30:02.000Z",
+      "author": {
+        "id": "98565449485655831011101011124334308863",
+        "name": "Sensu de Servicios y Desarrollos, S.L.",
+        "uri": "https://sensusd.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "SQL SERVER\r\nPOSTGRESS\r\nMONGO DB",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "0a898bdb514b6aa05cbd478555345e",
+      "title": "Desarrollador/a .NET",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/desarrollador-.net/of-i0a898bdb514b6aa05cbd478555345e",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryMax": {
+        "id": 990,
+        "value": "45.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:29:53.000Z",
+      "updated": "2023-05-18T09:29:53.000Z",
+      "author": {
+        "id": "98565456534753831179991013136430116536",
+        "name": "Success Talent People, SL",
+        "uri": "https://sabiapersonal.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "-Más de 3 años de experiencia como Desarrollador en .NET.\r\n- Experto/a en ASP.NET.\r\n- Experto/a en C#.\r\n- Experto/a en VB.NET.\r\n- Bases de datos: SQL Server.\r\n- Dinámico/a, dotado de una aptitud fuerte organizativa, acostumbrado a trabajar en un entorno cambiante y con equipos multidisciplinares.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "450d26d5264c9ab53f22bddb919ba3",
+      "title": "Técnico/a Soporte Onsite / Helpdesk",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Mataró",
+      "link": "https://www.infojobs.net/mataro/tecnico-soporte-onsite-helpdesk/of-i450d26d5264c9ab53f22bddb919ba3",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3112,
+        "value": "Helpdesk"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-18T09:28:22.000Z",
+      "updated": "2023-05-18T09:28:22.000Z",
+      "author": {
+        "id": "964348524526202450273214950207",
+        "name": "PSS",
+        "uri": "https://pss.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "376cbabe2e4eda8db5a8ffa01de0a2",
+      "title": "Técnico de redes y seguridad perimetral (Fortinet & Palo Alto)",
+      "province": {
+        "id": 51,
+        "value": "Vizcaya/Bizkaia"
+      },
+      "city": "Basauri",
+      "link": "https://www.infojobs.net/basauri/tecnico-redes-seguridad-perimetral-fortinet-palo-alto/of-i376cbabe2e4eda8db5a8ffa01de0a2",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3111,
+        "value": "Hardware, redes y seguridad"
+      },
+      "salaryMin": {
+        "id": 1310,
+        "value": "22.000 €"
+      },
+      "salaryMax": {
+        "id": 280,
+        "value": "30.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 10,
+        "value": "Sin estudios"
+      },
+      "published": "2023-05-18T09:23:38.000Z",
+      "updated": "2023-05-18T09:23:38.000Z",
+      "author": {
+        "id": "966151524526202450403215254709",
+        "name": "Westcon-Comstor",
+        "uri": "https://www.infojobs.net/westcon-comstor/em-i966151524526202450403215254709"
+      },
+      "requirementMin": "Obligatoria experiencia administrando FORTINET o  Palo Alto.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "730c63f88b4952be1a110d4650d751",
+      "title": "Técnico de mantenimiento Máquinas Recreativas",
+      "province": {
+        "id": 26,
+        "value": "Islas Baleares/Illes Balears"
+      },
+      "city": "Palma de Mallorca",
+      "link": "https://www.infojobs.net/palma-de-mallorca/tecnico-mantenimiento-maquinas-recreativas/of-i730c63f88b4952be1a110d4650d751",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3111,
+        "value": "Hardware, redes y seguridad"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:22:41.000Z",
+      "updated": "2023-05-18T09:22:41.000Z",
+      "author": {
+        "id": "66545250485152681051140006273857611642",
+        "name": "ZITRO",
+        "uri": "https://zitrolaboratory.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "2ee4bbee6246d389472f16a55907d4",
+      "title": "Responsable de Control Financiero",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/responsable-control-financiero/of-i2ee4bbee6246d389472f16a55907d4",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3110,
+        "value": "Gestión de proyectos"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:22:35.000Z",
+      "updated": "2023-05-18T09:22:35.000Z",
+      "author": {
+        "id": "98413218454ffd858b024fd65344ba",
+        "name": "Randstad Technologies",
+        "uri": "https://randstad-technologies.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "-Contable titulado en ACA / ACCA / CIMA (o equivalente) \r\n- Experiencia trabajando con un gran equipo financiero \r\n- Experiencia en la preparación de estados financieros consolidados para un grupo global\r\n- Buen conocimiento práctico de las NIIF\r\n- Capacidad para dirigir a otros en la resolución de problemas complejos en el área de control financiero, basándose en las soluciones y procedimientos existentes.\r\n- Pensamiento analítico demostrado para tomar decisiones e identificar soluciones innovadoras\r\n- Sólidos conocimientos de OneStream\r\n- Excelentes dotes de comunicación con capacidad para desafiar y\r\ncolaborar\r\n- Excelentes conocimientos de Google Suite\r\n- Inglés fluido",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "b4ca6f24344371a1b10d9ecd49bb47",
+      "title": "Project Manager/Infraestructura IT",
+      "province": {
+        "id": 43,
+        "value": "Sevilla"
+      },
+      "city": "Sevilla",
+      "link": "https://www.infojobs.net/sevilla/project-manager-infraestructura-it/of-ib4ca6f24344371a1b10d9ecd49bb47",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3110,
+        "value": "Gestión de proyectos"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-04-10T10:14:06.000Z",
+      "updated": "2023-05-18T09:21:45.000Z",
+      "author": {
+        "id": "98565454555450739797110014164390516469",
+        "name": "Iaas 365 S.L",
+        "uri": "https://www.infojobs.net/iaas-365-s.l/em-i98565454555450739797110014164390516469"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 32,
+      "urgent": false
+    },
+    {
+      "id": "cdcc276dfd4da7ab7314f5a8dba1c4",
+      "title": "Arquitecto/a Java + Microservicios (Remoto)",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/arquitecto-java-microservicios-remoto/of-icdcc276dfd4da7ab7314f5a8dba1c4",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3107,
+        "value": "Arquitectura"
+      },
+      "salaryMin": {
+        "id": 1300,
+        "value": "20.000 €"
+      },
+      "salaryMax": {
+        "id": 450,
+        "value": "52.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "published": "2023-05-18T09:20:58.000Z",
+      "updated": "2023-05-18T09:20:58.000Z",
+      "author": {
+        "id": "98565455515256848773786013055227608808",
+        "name": "Grupo Hasten",
+        "uri": "https://grupohasten.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "- Experiencia de más de 3 años como Arquitecto/a Java + Microservicios\n- Experiencia en aseguramiento de la calidad, diseño de soluciones, creación de documentación, integración de componentes, diseño de pruebas etc.\n- Experiencia en TDD\n- Requisitos técnicos: Java 8, Microservicios, Suite Spring, Kafka, RabbitMQ, React (deseable)",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "urgent": false
+    },
+    {
+      "id": "08cf5694a44fd8bb0659eae4eb9aa5",
+      "title": "Técnico/a Laboratorio 5G",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/tecnico-laboratorio-5g/of-i08cf5694a44fd8bb0659eae4eb9aa5",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3114,
+        "value": "Telecomunicaciones"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-18T09:19:46.000Z",
+      "updated": "2023-05-18T09:19:46.000Z",
+      "author": {
+        "id": "947055524527006630613555553152",
+        "name": "Alcorce Telecomunicaciones",
+        "uri": "https://alcorcetelecomunicaciones.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "-Amplia experiencia en administración de redes y configuración de equipos de varios proveedores tanto a nivel HW como a nivel SW, incluso Radio.\r\n- Experiencia en pruebas de dispositivos móviles, routers, equipos, tarjetas y resto de soluciones.\r\n- Capacidad para buscar soluciones y poner todo en funcionamiento.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "b4e7db7a65465ea5a73870928799ff",
+      "title": "INGENIERO/A LINUX",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Rivas-Vaciamadrid",
+      "link": "https://www.infojobs.net/rivas-vaciamadrid/ingeniero-linux/of-ib4e7db7a65465ea5a73870928799ff",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 960,
+        "value": "40.000 €"
+      },
+      "salaryMax": {
+        "id": 990,
+        "value": "45.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 4,
+        "value": "Al menos 4 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-18T09:19:00.000Z",
+      "updated": "2023-05-18T09:19:00.000Z",
+      "author": {
+        "id": "4115fc389b4735bdae9fca3bd75cac",
+        "name": "HAYS Working for your Tomorrow",
+        "uri": "https://hays.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 32,
+      "urgent": false
+    },
+    {
+      "id": "5749dbe7874494b53560a149487507",
+      "title": "Consultor/a de ERP F&O",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/consultor-erp-f/of-i5749dbe7874494b53560a149487507",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3109,
+        "value": "ERP, CRM, Business Intelligence"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-05-18T09:17:37.000Z",
+      "updated": "2023-05-18T09:17:37.000Z",
+      "author": {
+        "id": "965253524526202350233215451224",
+        "name": "PRODWARE",
+        "uri": "https://prodware.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    },
+    {
+      "id": "b02deede244b8e82283f7750ab1e4b",
+      "title": "Experto/a en Data Analytics & Business Intelligence para Team Heretics",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/experto-data-analytics-business-intelligence-para-team-heretics/of-ib02deede244b8e82283f7750ab1e4b",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3106,
+        "value": "Análisis"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "published": "2023-05-15T10:11:48.000Z",
+      "updated": "2023-05-18T09:17:25.000Z",
+      "author": {
+        "id": "98565557535152846965770022197417917482",
+        "name": "TEAM HERETICS SL.",
+        "uri": "https://teamheretics.ofertas-trabajo.infojobs.net"
+      },
+      "requirementMin": "¿Qué esperamos de ti en el equipo?\r\n\r\n- Participar en la elaboración de reportes y dashboards analíticos sobre distintos elementos del área comercial\r\n\r\n- Manejo de herramientas de Business Intelligence: servicio a los equipos de captación y account management en la elaboración de reports e insights sobre el performance de los patrocinios y/o campañas de branded content ejecutadas\r\n\r\n- Búsqueda de oportunidades de mercado y estudio de la competencia\r\n\r\n- Se requiere conocimientos avanzados y/o experiencia previa en el sector de los e-sports y/o entretenimiento digital\r\n\r\n- Capacidad de detección de oportunidades comerciales por el tratamiento de datos, tanto internos como externos",
+      "bold": true,
+      "applications": "0",
+      "subSegment": 22,
+      "urgent": false
+    }
+  ]
+}
