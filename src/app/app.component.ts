@@ -64,7 +64,7 @@ export class AppComponent implements AfterViewInit {
   initMap() {
     const map = new Map('map').setView(
       [40.43295133137188, -3.1],
-      6.2
+      6
     );
     tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
