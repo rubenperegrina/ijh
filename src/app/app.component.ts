@@ -9,7 +9,7 @@ import * as citiesData from '../assets/data/offers.json';
   imports: [CommonModule, NgOptimizedImage],
   template: `
   <div class="ij-logo-container">
-    <img [ngSrc]="ij_logo" width="138" height="34" />
+    <img [ngSrc]="ij_logo" alt="infojobs logo" width="138" height="34" />
   </div>
   <div class="map-container">
     <div class="map-frame">
